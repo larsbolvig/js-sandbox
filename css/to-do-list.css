@@ -1,0 +1,5 @@
+/* line 1, ../sass/to-do-list.scss */
+.rectangle {
+  position: absolute;
+  border: 2px solid black;
+}
