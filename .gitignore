@@ -1,0 +1,6 @@
+# Ignore sass-cache
+.sass-cache/
+*.sass-cache*
+
+# Ignore mac osx files
+.DS_Store
